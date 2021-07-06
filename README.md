@@ -22,6 +22,6 @@ Tenho 26 anos, e sou Pós-Graduado em Administração de Empresas - ENEB (Barcel
 
 ##  Contact Me
 
-- <a href="https://www.linkedin.com/in/guilherme-leal-7b866418b//" target="_blank">Linkedin</a>
-- <a href="mailto:g.leal@outlook.com.br" target="_blank">E-mail</a>
+- <a href="https://www.linkedin.com/in/guilherme-leal-7b866418b//" target="blank">Linkedin</a>
+- <a href="mailto:g.leal@outlook.com.br" target="blank">E-mail</a>
   </div>
