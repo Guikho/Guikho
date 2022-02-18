@@ -2,7 +2,7 @@
 
 ## About Me
 
-Tenho 26 anos, e sou Pós-Graduado em Administração de Empresas - ENEB (Barcelona - ES), concluído em 2020. Atualmente, sou estudante do Santander Bootcamp Fullstack Developer. 
+Tenho 27 anos, e sou Pós-Graduado em Administração de Empresas - ENEB (Barcelona - ES), concluído em 2020. Atualmente, sou estudante do Santander Bootcamp Fullstack Developer. 
 <br>
 
 ## Technologies
